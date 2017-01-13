@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outDir": "out"
+  },
+  "dependencies": {
+    "@types/jointjs": ">=1.0.0"
+  },
+  "files": [
+    "index.d.ts",
+  ]
+}
